@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "72lldItB8xkm2ThimjKCpWUFGSyMmmuFY4KCQZ+tuMLdlSVW0ijLVP7k5AwiXJpnzs4/FaFk9DumYpLtVpfcHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\boleta_electronica\\boleta_electronica\\boleta_electronica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

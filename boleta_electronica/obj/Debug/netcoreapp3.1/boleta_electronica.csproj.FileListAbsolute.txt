@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\boleta_electronica\boleta_electronica\bin\Debug\netcoreapp3.1\boleta_electronica.exe
+C:\Users\Usuario\source\repos\boleta_electronica\boleta_electronica\bin\Debug\netcoreapp3.1\boleta_electronica.deps.json
+C:\Users\Usuario\source\repos\boleta_electronica\boleta_electronica\bin\Debug\netcoreapp3.1\boleta_electronica.runtimeconfig.json
+C:\Users\Usuario\source\repos\boleta_electronica\boleta_electronica\bin\Debug\netcoreapp3.1\boleta_electronica.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\boleta_electronica\boleta_electronica\bin\Debug\netcoreapp3.1\boleta_electronica.dll
+C:\Users\Usuario\source\repos\boleta_electronica\boleta_electronica\bin\Debug\netcoreapp3.1\boleta_electronica.pdb
+C:\Users\Usuario\source\repos\boleta_electronica\boleta_electronica\obj\Debug\netcoreapp3.1\boleta_electronica.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\boleta_electronica\boleta_electronica\obj\Debug\netcoreapp3.1\boleta_electronica.Form1.resources
+C:\Users\Usuario\source\repos\boleta_electronica\boleta_electronica\obj\Debug\netcoreapp3.1\boleta_electronica.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\boleta_electronica\boleta_electronica\obj\Debug\netcoreapp3.1\boleta_electronica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\boleta_electronica\boleta_electronica\obj\Debug\netcoreapp3.1\boleta_electronica.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\boleta_electronica\boleta_electronica\obj\Debug\netcoreapp3.1\boleta_electronica.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\boleta_electronica\boleta_electronica\obj\Debug\netcoreapp3.1\boleta_electronica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\boleta_electronica\boleta_electronica\obj\Debug\netcoreapp3.1\boleta_electronica.dll
+C:\Users\Usuario\source\repos\boleta_electronica\boleta_electronica\obj\Debug\netcoreapp3.1\boleta_electronica.pdb
+C:\Users\Usuario\source\repos\boleta_electronica\boleta_electronica\obj\Debug\netcoreapp3.1\boleta_electronica.genruntimeconfig.cache
